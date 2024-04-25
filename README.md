@@ -287,6 +287,8 @@ char *NFA_TABLE[states][symbols + 1];
 }
 ```
 # OUTPUT 
+![image](https://github.com/Sanjushri13/Ex-1-NFA-to-DFA/assets/164732231/ec267153-aee1-4b28-a0d6-bb99f33c92b7)
+
 
 # RESULT
 The program was sucessfully converted from NFA to DFA.
