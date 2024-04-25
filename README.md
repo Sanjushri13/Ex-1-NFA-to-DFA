@@ -4,7 +4,7 @@
 # Exercise 1 - Conversion of Non-Deterministic Finite Automaton (NFA) To Deterministic Finite Automaton (DFA)
 
 # Date: 16.02.2024
-## Aim
+## AIM
 To write a C program for Conversion of Non-Deterministic Finite Automaton (NFA) To 
 Deterministic Finite Automaton (DFA).
 # ALGORITHM
@@ -287,7 +287,8 @@ char *NFA_TABLE[states][symbols + 1];
 }
 ```
 # OUTPUT 
-![image](https://github.com/Sanjushri13/Ex-1-NFA-to-DFA/assets/164732231/ec267153-aee1-4b28-a0d6-bb99f33c92b7)
+![image](https://github.com/Sanjushri13/Ex-1-NFA-to-DFA/assets/164732231/2c1b009a-76c4-4041-b035-c82117582f57)
+
 
 
 # RESULT
